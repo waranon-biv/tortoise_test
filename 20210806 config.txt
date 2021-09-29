@@ -1,0 +1,476 @@
+{
+    "selected_channels": [],
+    "windows": [
+        {
+            "configuration": {
+                "channels": [
+                    {
+                        "color": "#1f77b4",
+                        "common_axis": true,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "drv_trqReq",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -125.91037799116117,
+                                509.864586434645
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#ff7f0e",
+                        "common_axis": true,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "txMCU_trqReq_out",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -125.91037799116117,
+                                509.864586434645
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#2ca02c",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_EMOVERTEMP_DERATING",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -26.91550349845771,
+                                8.405327858531535
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#d62728",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_DCBUS_OVERVOLTAGE_DERATING",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -12.022039544451129,
+                                7.477563222311467
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#9467bd",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_DERATINGCOUNTER",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "%",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -1646.8829756248476,
+                                303.0773010514115
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#8c564b",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxBMS_SysVoltage",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "V",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                43.620428373675914,
+                                60.417645254469534
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#e377c2",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxHW_FAILURE",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -8.139494353202059,
+                                11.360108413560537
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#7f7f7f",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_OVERLOADDERATING",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -31.514854623184213,
+                                16.022333983473743
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#bcbd22",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxEM_OPERATINGMODE",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                1.5,
+                                2.5
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#17becf",
+                        "common_axis": true,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_MAXTORQUE_LIMIT",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "N\u0000\u0000\u0000m",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -125.91037799116117,
+                                509.864586434645
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#1f77b4",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": false,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "sensAuxChgr_flgDcConn",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -4.256989686046442,
+                                150.9214429800761
+                            ],
+                            [
+                                -0.5,
+                                0.5
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#ff7f0e",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": false,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "BIV_SigAccPedalSel",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -4.256989686046442,
+                                150.9214429800761
+                            ],
+                            [
+                                -0.0719548114109898,
+                                4.34388064371668
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#2ca02c",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": false,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "BivSig_DCdcFlgEn",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -4.256989686046442,
+                                150.9214429800761
+                            ],
+                            [
+                                0.5,
+                                1.5
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#d62728",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": false,
+                        "fmt": "{}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "BivSig_DCdcPostFlgStat",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -4.256989686046442,
+                                150.9214429800761
+                            ],
+                            [
+                                0.5,
+                                1.5
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#9467bd",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "sensDrvPedacc_pct",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -1.6400239542799682,
+                                12.568841328828277
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#8c564b",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_DERATINGTEMPERATURE",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                19.539764979556196,
+                                59.53313850525525
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#e377c2",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_INVERTERTEMPERATURE",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -94.93632514674871,
+                                249.0066871742632
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#7f7f7f",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": true,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_MOTORTEMPERATURE",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -9.780298278602658,
+                                120.96863050011737
+                            ]
+                        ]
+                    },
+                    {
+                        "color": "#bcbd22",
+                        "common_axis": false,
+                        "computed": false,
+                        "enabled": false,
+                        "fmt": "{:.3f}",
+                        "individual_axis": false,
+                        "mdf_uuid": "2cdd17a788b9",
+                        "mode": "phys",
+                        "name": "rxMCU_ROTORTEMPERATURE",
+                        "precision": 3,
+                        "ranges": [],
+                        "unit": "",
+                        "view_box": [
+                            [
+                                -0.28622855117693874,
+                                154.89220411494557
+                            ],
+                            [
+                                -21.40191199371492,
+                                154.56893151936097
+                            ]
+                        ]
+                    }
+                ],
+                "pattern": {}
+            },
+            "geometry": [
+                0,
+                0,
+                1525,
+                941
+            ],
+            "title": "Plot 0",
+            "type": "Plot"
+        }
+    ]
+}
